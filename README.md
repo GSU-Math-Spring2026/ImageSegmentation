@@ -8,5 +8,6 @@
 ## 6. Now you have a brand new folder ImageSegmentation. Browse and open the notebook inside.
 ## 7. Before running anything: from top right corner, switch kernel to Deep Learning (must be in the list of dialog that pops up):
 <img width="261" height="96" alt="image" src="https://github.com/user-attachments/assets/f7dcdf21-fba5-47b0-bb39-681ad75217d7" />
+
 <img width="487" height="372" alt="image" src="https://github.com/user-attachments/assets/02d56350-0c39-453e-8e29-5eacdc3b396c" />
 ##. 8. Run the notebook!
